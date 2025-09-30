@@ -31,6 +31,14 @@
 
 ---
 
+## 🤝 Colaboraciones y proyectos educativos
+
+- 🌱 **Colaboro con la organización [Código Activo](https://github.com/CodigoActivo)**, una comunidad que impulsa la programación y la tecnología desde edades tempranas.  
+- 🐝 Imparto **clases de programación para niños de primaria** en el **CRA Profesor Emilio Alonso**, en Carbajal (León).  
+  Allí usamos actividades prácticas, robótica y juegos como **Bee-Bot** o **Scratch** para que los más pequeños aprendan a programar divirtiéndose. 🚀
+
+---
+
 ## 📊 Mis stats en GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlostessier&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostessier&layout=compact&theme=tokyonight)
@@ -40,7 +48,6 @@
 ## 🌍 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlostessier/)  
 - 🏫 IES San Andrés (León)  
-- 📧 (puedes poner aquí un correo de contacto si quieres)
 
 ---
 
