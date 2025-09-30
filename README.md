@@ -33,7 +33,7 @@
 
 ## 🤝 Colaboraciones y proyectos educativos
 
-- 🌱 **Colaboro con la organización [Código Activo](https://github.com/CodigoActivo)**, una comunidad que impulsa la programación y la tecnología desde edades tempranas.  
+- 🌱 **Colaboro con la organización [Código Activo]([https://www.codigoactivo.es)**, una comunidad que impulsa la programación y la tecnología desde edades tempranas.  
 - 🐝 Imparto **clases de programación para niños de primaria** en el **CRA Profesor Emilio Alonso**, en Carbajal (León).  
   Allí usamos actividades prácticas, robótica y juegos como **Bee-Bot** o **Scratch** para que los más pequeños aprendan a programar divirtiéndose. 🚀
 
