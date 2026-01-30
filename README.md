@@ -51,4 +51,4 @@
 
 ---
 
-✨ *Siempre aprendiendo, siempre compartiendo.*  
+✨ *Disce aut discede.*  
