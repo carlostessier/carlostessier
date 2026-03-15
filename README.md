@@ -47,7 +47,7 @@
 
 ## 🌍 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlostessier/)  
-- 🏫 IES San Andrés (León)  
+- 🏫 [IES San Andrés (León)](https://www.iessanandres.com/)  
 
 ---
 
