@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 Proyectos destacados
-✨ [Curso de Especialización en IA y Big Data](https://github.com/IES-SAN-ANDRES-CEIABD)  
+✨ [Curso de Especialización en IA y Big Data](https://github.com/Ciclo-Especializacion-IA-y-BigData)  
 ✨ [Recursividad en C con cuadernos prácticos](https://github.com/IES-SAN-ANDRES-Recursividad)  
 ✨ [DevContainers para entornos de enseñanza reproducibles](https://github.com/IES-SAN-ANDRES-DWEC-24-25)  
 
