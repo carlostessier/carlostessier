@@ -24,7 +24,7 @@
 
 ## 🚀 Proyectos destacados
 ✨ [Curso de Especialización en IA y Big Data IES San Andrés](https://github.com/Ciclo-Especializacion-IA-y-BigData)  
-✨ [Curso de Desarrollo Web en Entorno Cliente IES Galapagar](h[ttps://github.com/IES-SAN-ANDRES-Recursividad](https://github.com/DWEC-2022-23))  
+✨ [Curso de Desarrollo Web en Entorno Cliente IES Galapagar](https://github.com/IES-SAN-ANDRES-Recursividad](https://github.com/DWEC-2022-23))  
 ✨ [urso de Desarrollo Web en Entorno Cliente IES San Andrés](https://github.com/IES-SAN-ANDRES-DWEC-24-25)  
 
 *(Muchos repositorios están bajo organizaciones, pero casi siempre hay huella mía 👣)*
