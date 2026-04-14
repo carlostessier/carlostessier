@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carlos Tessier  
 
-🎓 Profesor de **Informática** en Formación Profesional y cursos de especialización en **IA y Big Data**.  
+🎓 Profesor de **Informática** en Formación Profesional del ciclo de DAM a distancia y del curso de especialización en **IA y Big Data**.  
 🚀 Me apasiona mezclar **docencia, tecnología y creatividad** para que aprender sea siempre un reto motivador.  
 💡 En mis clases encontrarás desde **C y Python** hasta **JavaScript, redes neuronales y proyectos de IA**.  
 
